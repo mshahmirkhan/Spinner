@@ -1,0 +1,43 @@
+<html>
+<head>
+	<title>SPINER</title>
+</head>
+
+<style>
+/******************************************************************************************************
+
+body{
+	background-color:lightyellow;
+}
+#circle{
+	width:100px;
+	height:100px;
+	color:white;
+	background-color:red;
+	border-radius: 50%;
+	postion:;
+	margin-top:300px;
+	margin-left:600px;
+
+}********************************************************************************************************/
+
+#circle{
+	width:10px;
+	height:10px;
+	postion:;
+	margin-top:200px;
+	margin-left:400px;
+}
+
+img{
+    width:400px;
+    height:400px;
+}
+img:hover{
+	transition-property: 200;
+}
+</style>
+<body>
+<div id="circle"><img src="spinner.jpg"</div>
+</body>
+</html>
